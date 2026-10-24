@@ -7,7 +7,7 @@ The setup checklist from the [Organizer Toolkit](https://organize.zqmlabs.com), 
 - [ ] Pick your date, start time, and **rain date**.
 - [ ] Pick your **Dial setting**: **Cozy** (all ages), **Spooky** (teens+), **After Dark** (adults), **Overdrive** (competitive offices).
 - [ ] Walk your space and choose **6 waypoints**, 2–4 minutes apart on foot. Note anything that could move or vanish — parked cars, decorations.
-- [ ] Send the Lab your waypoint list (or take the setup call) so the quest text matches what players will actually see.
+- [ ] Check the kit's six generic stops against your waypoints — the kit is not rewritten for your space.
 
 ## 1 week out
 

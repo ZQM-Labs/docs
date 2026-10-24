@@ -27,7 +27,7 @@ The Dial is your age-and-intensity control. Set it for the group you actually ha
 
 ## Your responsibilities as host
 
-For an in-person event, the organizer confirms a suitable venue and route for their participants — considering **accessibility, supervision, local permissions, weather, and safety** — and confirms responsibilities with the Lab before the event. That includes:
+For an in-person event, the organizer confirms a suitable venue and route for their participants — considering **accessibility, supervision, local permissions, weather, and safety** — and coordinates responsibilities with the Lab before announcing the event. That includes:
 
 - Supervision arrangements appropriate to your group (youth groups: agree supervision with the Lab when you book).
 - Any permission your venue requires — a park, school, HOA common area, or business property may have its own rules.

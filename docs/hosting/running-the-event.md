@@ -21,7 +21,7 @@ Then start the clock.
 - **Roam, don't hover.** Wander the route, enjoy being the person who knows where everything is, and let teams play.
 - Teams share one phone each and move at their own pace; a full run takes 30–60 minutes.
 - If a team falls behind, remind them hints are free — and if a team is truly stuck, walk them to the next stop yourself. Fun beats fairness.
-- The Lab monitors [zqmcomputing@gmail.com](mailto:zqmcomputing@gmail.com) during every event window — if something breaks that the [troubleshooting page](troubleshooting.md) doesn't cover, email.
+- Day-of support is limited and best-effort — if something breaks that the [troubleshooting page](troubleshooting.md) doesn't cover, email [zqmcomputing@gmail.com](mailto:zqmcomputing@gmail.com), but replies may be delayed on Halloween. Work through troubleshooting first.
 
 ## The finale
 
