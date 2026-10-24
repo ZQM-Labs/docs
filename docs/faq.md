@@ -20,10 +20,10 @@ The Dial sets it: Cozy is all-ages, Spooky suits teens+, After Dark is for adult
 A backyard works. Stops can be 20 feet apart — the puzzles carry the game, not the hiking.
 
 **Can we customize the quest text?**
-Yes — that's what the setup call is for. Tell us what's actually at each waypoint and the quest gets written around your space.
+No. Flat kits are generic — the same stories and puzzles for every buyer, not written around your space, and there is no setup call to customize them. Choose waypoints that fit the kit's six stops as closely as your space allows.
 
 **What does hosting cost?**
-Family Night $49 · Community $199 · Office Team $349 · Office Event $499 — one flat fee per kit, yours to replay for your group. Family Night's Halloween launch offer: code **FAMILY25** takes $24 off, to $25. Full details: [Choosing a Tier](hosting/tiers.md).
+Family Night $49 · Community $199 · Office Team $349 · Office Event $499 — one flat fee per kit, yours to replay for your group during the event window. Family Night's Halloween launch offer: code **FAMILY25** takes $24 off, to $25. Full details: [Choosing a Tier](hosting/tiers.md).
 
 **Who sees our photos and scores?**
 Only you, unless you share them with us for the community showcase — with permission, always.
@@ -32,7 +32,7 @@ Only you, unless you share them with us for the community showcase — with perm
 The current edition, *Wisp's Lost Lanterns*, runs October 30 – November 1, 2026, with the current local activation in Volusia County, Florida.
 
 **Can we host outside Volusia County?**
-The browser demo is accessible online, but that doesn't mean in-person event delivery is available everywhere. Email the Lab with your location and dates to confirm whether your event can be supported *before* advertising it.
+The browser demo is accessible online, but that doesn't mean in-person event delivery is available everywhere. Email the Lab with your location and dates to coordinate whether your event can be supported *before* announcing it.
 
 ## The game
 

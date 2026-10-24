@@ -14,7 +14,7 @@ Tell the Lab what worked and what didn't — a sign nobody could scan, a puzzle 
 
 ## Replay it
 
-Your kit is one flat fee, **yours to replay for your group** — same signs, same route, new victims. Reprinting a weather-beaten sign? The [print specs](before-the-event.md#print-specs-qr-signs-that-scan) and the toolkit's QR generator have you covered.
+Your kit is one flat fee, **yours to replay for your group during the event window** — same signs, same route, new victims. Reprinting a weather-beaten sign? The [print specs](before-the-event.md#print-specs-qr-signs-that-scan) and the toolkit's QR generator have you covered.
 
 ## Join the Communities directory
 

@@ -31,4 +31,4 @@ See the [rain plan](safety.md#weather-and-the-rain-plan). When in doubt, postpon
 
 ## Still stuck?
 
-Email [zqmcomputing@gmail.com](mailto:zqmcomputing@gmail.com) — the Lab monitors it during every event window.
+Email [zqmcomputing@gmail.com](mailto:zqmcomputing@gmail.com) — day-of support is limited and best-effort, and replies may be delayed on Halloween. Work through the page above first.
