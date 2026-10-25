@@ -4,6 +4,10 @@ Every quest needs one host — the **Lab Assistant** — to print a few pages an
 
 This handbook covers hosting the current game, *Wisp's Lost Lanterns* (Halloween edition, October 30 – November 1, 2026). Packages and prices on this page describe that experience; future titles may have different formats and prices.
 
+## The story you're staging
+
+Wisp — a small, wandering will-o'-the-wisp, and Dr. Z's escaped first creation — has lost her six glow lanterns, the lights that show her the way home. Without them she flickers like a dying candle. Teams become Lantern Keepers: follow the trail across six stops, solve the puzzle at each, and relight one lantern at a time. Every lantern relit makes Wisp brighter and braver — and when all six burn, the quest ends in the Lantern Parade, where Wisp lights your way home too. As host, you are not running a generic scavenger hunt: you are setting the trail Wisp's Lantern Keepers walk, from the Welcome Pumpkin at the front door to the Lantern Parade at the end. Your signs, your route, and your finale photo are the night Wisp gets her light back.
+
 ## What hosting involves
 
 1. **Pick a tier** that fits your group — [Choosing a Tier](tiers.md).

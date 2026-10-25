@@ -2,6 +2,14 @@
 
 A ZQM Labs quest is a walking scavenger hunt with a story. Everything below is the current game, *Wisp's Lost Lanterns*; other titles may differ in theme and mechanics.
 
+## The story
+
+Wisp — a small, wandering will-o'-the-wisp, and Dr. Z's escaped first creation — has lost her six glow lanterns, the lights that show her the way home. Without them she flickers like a dying candle. Teams become Lantern Keepers: follow the trail across six stops, solve the puzzle at each, and relight one lantern at a time. Every lantern relit makes Wisp brighter and braver — and when all six burn, the quest ends in the Lantern Parade, where Wisp lights your way home too.
+
+Along the trail you'll meet the residents of Z's Zoo: the Welcome Pumpkin at the front door, Oakie the Whispering Oak — Wisp's best friend — the Tag Ghosts of the Giggling Graveyard, Mrs. Spider, and Professor Hoot. Keep an eye out at the parade ground for the Seventh Shadow, waving back.
+
+At every stop, if you're stuck, the third hint is the "Ranger assist" — the Ranger steps in so no team stalls on the trail.
+
 ## The shape of the game
 
 - **6 stops.** Each stop has a printed QR sign, a short location story, and a puzzle.

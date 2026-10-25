@@ -2,7 +2,7 @@
 
 ## The finale, finished
 
-You already gathered at the last stop, tallied the scores, broke any ties, and handed out the finisher badges ([Running the Event](running-the-event.md#the-finale)). One thing left at the venue: **the group photo.**
+You already gathered at the last stop, tallied the scores, broke any ties, and handed out the finisher badges ([Running the Event](running-the-event.md#the-finale)). That gathering is the Lantern Parade — the moment all six lanterns burn and Wisp lights the way home. One thing left at the venue: **the group photo.**
 
 ## Photos and testimonials
 
