@@ -1,8 +1,6 @@
 # ZQM Labs Docs
 
-Source for [docs.zqmlabs.com](https://docs.zqmlabs.com/) — the ZQM Labs
-documentation hub: how to play, the host handbook for Wisp's Lost Lanterns,
-and the front door to every ZQM Labs doc site.
+Source for [docs.zqmlabs.com](https://docs.zqmlabs.com/) — practical **ZQM Labs game documentation** for playing Wisp's Lost Lanterns, hosting a community scavenger hunt, preparing an event, handling day-of problems, and finding every ZQM Labs documentation site.
 
 ## What is in this repo
 
