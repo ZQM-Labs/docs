@@ -12,7 +12,7 @@ Day-of, you are the host — not the game master. The game runs itself from the 
 
 Gather players at the start poster, hand out (or post) the access code, and read the 30-second briefing:
 
-> "Six stops, scan the QR at each, solve the puzzle, hints cost you nothing but pride. Most solved wins."
+> "Wisp has lost her six glow lanterns, and you are her Lantern Keepers. Six stops, one lantern at each — scan the QR, solve the puzzle, relight the lantern. Hints cost you nothing but pride, and the third hint is the Ranger assist. Relight all six and we finish together at the Lantern Parade. Most solved wins."
 
 Then start the clock.
 
