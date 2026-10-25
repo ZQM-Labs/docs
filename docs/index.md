@@ -26,7 +26,7 @@ The sample quest is a complete mini edition of the game, published in the open [
 
 ## Everything else
 
-[All Doc Sites](doc-sites.md) indexes every ZQM Labs documentation site — the organizer toolkit, quest packs, quest authoring, playtests, and the pattern libraries.
+[All Doc Sites](doc-sites.md) indexes every ZQM Labs documentation site — the organizer toolkit, quest packs, quest authoring, playtests, and the cookbook sites.
 
 Questions the docs don't answer: [contact the Lab](contact.md).
 
