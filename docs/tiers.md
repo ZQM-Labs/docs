@@ -1,3 +1,7 @@
+---
+description: "Compare the Cozy, Spooky, After Dark, and Overdrive difficulty tiers for ZQM Labs scavenger-hunt games."
+---
+
 # Tiers
 
 <meta http-equiv="refresh" content="0; url=/hosting/tiers/">
