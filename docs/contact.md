@@ -1,3 +1,7 @@
+---
+description: "Contact ZQM Labs for help with Wisp's Lost Lanterns, community hosting, event issues, or documentation corrections."
+---
+
 # Contact
 
 **Email: [zqmcomputing@gmail.com](mailto:zqmcomputing@gmail.com)**
