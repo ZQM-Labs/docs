@@ -2,6 +2,7 @@
 {% block extrahead %}
 <meta property="og:title" content="{% if page and page.title %}{{ page.title }} · {% endif %}{{ config.site_name }}">
 {% set page_description = page.meta.description if page and page.meta and page.meta.description else config.site_description %}
+<meta name="description" content="{{ page_description }}">
 <meta property="og:description" content="{{ page_description }}">
 <meta property="og:type" content="website">
 <meta property="og:url" content="{{ page.canonical_url }}">
