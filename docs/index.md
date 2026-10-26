@@ -1,3 +1,7 @@
+---
+description: "ZQM Labs game documentation for playing Wisp's Lost Lanterns, hosting a community hunt, and finding every ZQM Labs documentation site."
+---
+
 # ZQM Labs Docs
 
 Welcome to the documentation hub for ZQM Labs games. This is the front door: how to play, how to host, and where every other ZQM Labs doc site lives.
