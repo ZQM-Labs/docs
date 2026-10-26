@@ -1,3 +1,7 @@
+---
+description: "Answers to common questions about Wisp's Lost Lanterns, devices, gameplay, hints, accessibility, and running a community scavenger hunt."
+---
+
 # FAQ
 
 ## Playing

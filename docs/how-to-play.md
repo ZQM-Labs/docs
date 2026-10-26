@@ -1,3 +1,7 @@
+---
+description: "Learn how to play Wisp's Lost Lanterns: start the browser game, scan checkpoint QR codes, solve puzzles, use hints, and relight all six lanterns."
+---
+
 # How to Play
 
 A ZQM Labs quest is a walking scavenger hunt with a story. Everything below is the current game, *Wisp's Lost Lanterns*; other titles may differ in theme and mechanics.

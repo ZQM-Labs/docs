@@ -1,3 +1,7 @@
+---
+description: "Safety and supervision guidance for running a location-based scavenger hunt with children, families, or community groups."
+---
+
 # Safety & Supervision
 
 The short version: the host owns the venue and the route, the game owns the puzzles. These are the safety basics as documented across the ZQM Labs host materials.

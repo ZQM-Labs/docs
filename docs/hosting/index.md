@@ -1,3 +1,7 @@
+---
+description: "The ZQM Labs host handbook: plan, prepare, run, and wrap up a community scavenger-hunt event."
+---
+
 # Hosting a Game
 
 Every quest needs one host — the **Lab Assistant** — to print a few pages and place six signs. That is the whole job: about **one hour, total**. The Lab handles the game itself and supports you remotely on a limited, best-effort basis during your event window.

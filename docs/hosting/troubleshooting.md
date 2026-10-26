@@ -1,3 +1,7 @@
+---
+description: "Troubleshoot common event-day problems with QR signs, phones, connectivity, puzzles, and team progress."
+---
+
 # Day-Of Troubleshooting
 
 Keep this page open on your phone during the event. Nearly every issue is below; the full version lives in the [Organizer Toolkit](https://organize.zqmlabs.com).
