@@ -39,11 +39,27 @@ nav entry must point at a page that actually exists under `docs/`.
 
 ## Deploy
 
-This repo contains no deploy script and no CI workflow, so the step that
-takes a built site to docs.zqmlabs.com is not documented here. Confirm the
-deploy route before publishing; do not assume a git-based Pages
-integration. The `docs/_headers` file is part of the site source — verify
-it lands in the deployed output, rather than assuming it does.
+Source: this repo (`mkdocs.yml`, `docs/`). The live site is Cloudflare Pages
+project `docs` (`docs-8ym.pages.dev`), custom domain `docs.zqmlabs.com` —
+**direct upload, no Git source and no native Pages Git build**. CI
+(`.github/workflows/docs-ci.yml`) builds with `mkdocs build --strict` on the
+self-hosted Linux runners and verifies `site/index.html`; it does not deploy.
+
+Repeatable route:
+
+1. Build: `mkdocs build --strict` (output goes to `site/`).
+2. Upload `site/` with `wrangler pages deploy site --project-name=docs`
+   (needs a token with Pages:Edit — currently unverified) or by drag-and-drop
+   in the Cloudflare dashboard (Pages → `docs` → Create deployment).
+3. Verify live: fetch `https://docs.zqmlabs.com/` (200), confirm the changed
+   pages are present, and confirm `docs/_headers` took effect (live must
+   return `X-Frame-Options: DENY`).
+
+Known state (2026-11-18): last deployed 2026-10-24T16:35Z; the repo has since
+been pushed (last push 2026-11-18), so live is stale — the Oct 25–26 Lantern
+Keeper sections are not live, and `_headers` is not taking effect live (no
+`X-Frame-Options` header). A re-deploy is owed. The original Oct 24 upload
+mechanism (wrangler vs dashboard) is unconfirmed.
 
 ## Contact
 
