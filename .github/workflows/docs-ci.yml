@@ -36,3 +36,57 @@ jobs:
 
       - name: Verify generated homepage
         run: test -s site/index.html
+
+  # Auto-deploy: every push to main (and every manual workflow_dispatch run)
+  # deploys the built site to Cloudflare Pages project `docs`
+  # (docs.zqmlabs.com) via Wrangler, mirroring the apex deploy pattern
+  # (cloudflare/wrangler-action v4, pinned by SHA).
+  #
+  # SETUP REQUIRED before this job can succeed: add a repo secret
+  # `CLOUDFLARE_API_TOKEN` holding a Cloudflare API token with
+  # Account / Cloudflare Pages / Edit on this account. Until the secret
+  # exists the deploy step fails and the job goes red — the first green
+  # run after the secret is added is the proof the setup works.
+  # The account ID is not a secret (it is the public Cloudflare account
+  # identifier) and is hardcoded below so only the token needs a secret.
+  deploy:
+    name: Deploy to Cloudflare Pages
+    needs: build
+    if: github.ref == 'refs/heads/main' && (github.event_name == 'push' || github.event_name == 'workflow_dispatch')
+    runs-on: [self-hosted, Linux, X64, zqm-linux]
+    timeout-minutes: 10
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install MkDocs Material
+        run: python -m pip install --disable-pip-version-check mkdocs-material
+
+      - name: Build with strict warnings
+        run: mkdocs build --strict
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@953926a2e2182532811c01a25e53647d93bf07c0 # v4
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: 95f9d4d4b30ddd165f0ce16e9cf15f82
+          command: pages deploy site --project-name=docs --branch=main --commit-hash=${{ github.sha }} --commit-message="GitHub Actions source ${{ github.sha }}"
+
+      - name: Verify live security header
+        run: |
+          set -euo pipefail
+          for i in 1 2 3 4 5; do
+            if curl -sSI --max-time 15 https://docs.zqmlabs.com/ | grep -qi '^x-frame-options: DENY'; then
+              echo "Live header check passed (attempt $i)"
+              exit 0
+            fi
+            echo "Attempt $i: X-Frame-Options: DENY not seen yet; retrying in 10s"
+            sleep 10
+          done
+          echo "ERROR: X-Frame-Options: DENY not present on https://docs.zqmlabs.com/ after deploy" >&2
+          exit 1
